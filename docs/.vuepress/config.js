@@ -19,16 +19,7 @@ module.exports = {
         ],
         extractHeaders: ['h1', 'h2', 'h3', 'h4', 'h5', 'h6'],
         sidebar: {
-            '/guide/': [
-                'getstart',
-                'ts',
-                'ts-mark',
-                'vue3',
-                'esey',
-                'web',
-                'Selection',
-                'wechat'
-            ]
+            '/guide/': ['getstart', 'ts', 'ts-mark', 'vue3', 'wechat', 'git']
         }
     }
 };
